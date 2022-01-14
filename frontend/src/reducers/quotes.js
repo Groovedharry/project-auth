@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const secrets = createSlice({
-  name: "secrets",
+const quotes = createSlice({
+  name: "quotes",
   initialState: {
     items: [
       {
@@ -31,4 +31,4 @@ const secrets = createSlice({
   },
 });
 
-export default secrets;
+export default quotes;
