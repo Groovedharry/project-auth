@@ -19,4 +19,4 @@ Created by Bruna Santos Araujo and Harry Bäcklin
 
 Frontend https://bruna-harry-project-auth.netlify.app/login
 
-Backend https://bruna-harry-project-auth.herokuapp.com/
+Backend https://project-auth-bh.herokuapp.com/
